@@ -4,3 +4,10 @@
     box-sizing: border-box0;
     border: 1px solid black;
 }
+
+.bg{
+    display: flex;
+    height: 100vh;
+    background-color: lightblue;
+    flex-direction: column;
+}
