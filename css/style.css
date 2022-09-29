@@ -73,7 +73,7 @@ footer{
 }
 
 .i-c{
-    margin-left: 35px;
+    margin-left: 50px;
 }
 
 .bottone-fine{
@@ -92,23 +92,17 @@ footer{
 }
 
 
-.name{
-    display: flex;
-    
+p{
+    font-size: 15px;
 }
 
-#nomi-sinistra{
+i{
     display: flex;
+    justify-content: space-around;
 }
 
-
-#nomi-centrali{
-    display: flex;
-    margin: auto;
-    justify-content: center;
-}
-
-.name-c{
-    margin-left: 35px;
-    font-size: 13px;
+.contenitore-i-n{
+    display: block;
+    justify-content: space-around;
+    /*margin-right: 100px;*/
 }
