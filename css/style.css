@@ -51,6 +51,7 @@ footer{
 }
 
 footer{
+    
 }
 
 .icone{
@@ -59,6 +60,7 @@ footer{
 }
 
 .icone-sinistra{
+    font-size: 20px;
     display: flex;
     
 }
@@ -71,7 +73,7 @@ footer{
 }
 
 .i-c{
-    margin-left: 20px;
+    margin-left: 35px;
 }
 
 .bottone-fine{
@@ -90,21 +92,23 @@ footer{
 }
 
 
+.name{
+    display: flex;
+    
+}
 
-
-
-
-
-
-
-.nomi-sinistra{
+#nomi-sinistra{
     display: flex;
 }
 
-.nome1{
-    margin-left: 35px;
+
+#nomi-centrali{
+    display: flex;
+    margin: auto;
+    justify-content: center;
 }
 
-.nome2{
-    margin-left: 20px;
+.name-c{
+    margin-left: 35px;
+    font-size: 13px;
 }
