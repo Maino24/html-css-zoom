@@ -75,6 +75,10 @@ footer{
     text-align: center;
 }
 
+.first-icon{
+    margin-left: 5px;
+}
+
 
 #icone-centrali{
     display: flex;
@@ -114,5 +118,4 @@ i{
 .contenitore-i-n{
     display: block;
     justify-content: space-around;
-    /*margin-right: 100px;*/
 }
