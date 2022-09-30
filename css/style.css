@@ -50,13 +50,13 @@ footer{
 }
 
 .card{
-    width: calc((100vw / 7) - 3px);
-    height: 200px;
-    background-image: url(../img/img.jpg);
+    width: calc((100vw / 7) - 10px);
+    /*height: 100px;*/
+    /*background-image: url(../img/img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
-    margin: 3px;
+    background-position: center;*/
+    margin: 5px;
     
 }
 
